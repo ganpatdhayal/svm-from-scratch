@@ -10,7 +10,6 @@ This repository contains **Support Vector Machine (SVM)** and **Logistic Regress
 - Hinge loss optimization for non-linear classification
 - Dual formulation using Lagrange multipliers
 - Kernel tricks: linear, polynomial, and RBF
-- Logistic Regression
 
 ---
 
