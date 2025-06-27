@@ -1,6 +1,6 @@
 # SVM From Scratch
 
-This repository contains **Support Vector Machine (SVM)** and **Logistic Regression** implementations built entirely from scratch using NumPy. No external machine learning libraries are used — every algorithm, optimization, and kernel function is manually coded to understand the core math behind these models.
+This repository contains **Support Vector Machine (SVM)** implementations built entirely from scratch using NumPy. No external machine learning libraries are used — every algorithm, optimization, and kernel function is manually coded to understand the core math behind these models.
 
 ---
 
